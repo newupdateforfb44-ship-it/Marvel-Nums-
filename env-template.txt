@@ -1,0 +1,52 @@
+MONGODB_URI=mongodb+srv://USER:PASSWORD@cluster0.xxxxx.mongodb.net/marvelnums?retryWrites=true&w=majority
+JWT_SECRET=
+ADMIN_PASSCODE=
+ADMIN_SECRET_PATH=
+ADMIN_WHATSAPP=
+SITE_URL=https://your-site-address
+PORT=
+NODE_ENV=
+
+# ── Flutterwave V4 (bank transfer deposits — dynamic virtual accounts) ─────
+FLW_CLIENT_ID=
+FLW_CLIENT_SECRET=
+FLW_SECRET_HASH=
+FLW_ENV=
+FLW_V3_SECRET_KEY=
+FLW_PLATFORM_BVN=
+# ── Cloudinary (permanent image/file storage — survives Render restarts) ──
+CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
+CLOUDINARY_UNSIGNED_PRESET=
+
+# ── Google Sign-In ──────────────────────────────────────────
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+
+#otp suite source
+OTPSUITE_API_KEY=
+OTPSUITE_BASE_URL=
+
+
+#gizzle sms 
+GRIZZLY_BASE_URL=
+GRIZZLY_API_KEY=
+
+
+#resend.com api 
+RESEND_API_KEY=
+MAIL_FROM_EMAIL=
+
+#boost api
+BOOST_API_KEY=
+BOOST_ENABLED=
+BOOST_WEBHOOK_SECRET=
+BOOST_FAST_SWEEP_SECONDS=
+BOOST_POLL_SECONDS=
+
+# Rakib Socials API
+RAKIB_BASE_URL=
+RAKIB_API_KEY=
+RAKIB_LOW_BALANCE_THRESHOLD=
+ADMIN_ALERT_EMAIL=
